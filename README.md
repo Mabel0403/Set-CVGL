@@ -14,7 +14,7 @@ This work has been accepted by ISPRS Journal [https://www.sciencedirect.com/scie
 
 
 
-## 1. SetCVGL Task
+## 1. Set-CVGL Task
 
 The Set-CVGL task extends traditional cross-view geo-localization by allowing multiple query images captured from diverse perspectives, without assuming any sequential relationships.
 
