@@ -22,7 +22,7 @@ Given a set of query images collected within a limited spatial range around an u
 
 While leveraging multiple images provides a more comprehensive description of the scene, it also introduces challenges in effectively fusing information from different viewpoints without sequential priors or strong overlap.
 
-![decentrality_vis_perceptron](./figures/task_define_intro.png)
+![task_definition](./figures/task_define_intro.png)
 
 ## 2. SetVL-480K Dataset
 The primary aim of the SetVL-480K dataset is to support the Set-CVGL, a task we propose that remains underexplored in previous research. Compared with previous datasets, SetVL-480K has several key characteristics:
@@ -31,7 +31,7 @@ The primary aim of the SetVL-480K dataset is to support the Set-CVGL, a task we 
  2. No sequential constraints among query images: Ground images in SetVL-480K are captured from random perspectives, presenting a general and challenging geo-localization task suited to a wide range of applications.
  3. Dense distribution of query images: In SetVL-480K, each reference cell is linked to an average of 40 query images, allowing researchers to investigate the impact of query image quantity on localization accuracy.
 
-![decentrality_vis_perceptron](./figures/Dataset_comparison_1024.png)
+![dataset comparison](./figures/Dataset_comparison_1024.png)
 
 
 ### 2.1 City distribution
